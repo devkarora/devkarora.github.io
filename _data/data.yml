@@ -47,7 +47,7 @@ sidebar:
         - item: Programming
           link:
 
-        - item: Sports : Badminton, Running
+        - item: Sports - Badminton, Running
           link:
 
         - item: 
@@ -65,68 +65,31 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BTech in Computer Science
+        university: Manipal University Jaipur
+        time: 2016 - 2020   
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Software Engineer II
+        time: 2022 - Present
+        company: Dell Technologies, India
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Implemented and tested python/bash scripts from scratch and integrated them in GitLab CICD pipelines to carry out large-scale automation impacting 20,000+ repositories, thereby saving days of manual man-hours of work.
+            - Designed and coded CICD template (compatible with existing infrastructure) to carry out all stages of the component's development lifecycles.
+            - Solved various tickets involving production issues involving excessive debugging and workflow tracing like pipeline unable to fetch artifacts from repository, unable to fetch details from vault etc.
+            - Helped onboard a couple of software engineers to the team by giving them relevant knowledge transfers and assisting them to resolve technical issues.
+      - role: Analyst, Cyber Security Engineering
+        time: 2020 - 2022
+        company: Dell Technologies, India
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
+            - Applied problem-solving skills in Investigating, analyzing and resolving different security cases that include possible malicious data and other potential threats. Utilized EDR and SIEM tools to identify, solve, and document different potential and non-potential security risks.
+            - Contribute to the development and improvement of security monitoring and incident response processes and solutions supporting Dell security standards.
+            - Implemented automation on data to create metrics and dashboards representing global team's work. Received recognition from Management for the same(python).
+            - Participate in trainings, certifications and helped onboard few security engineers to the team by giving relevant knowledge transfers.
 projects:
     title: Projects
     intro: >
