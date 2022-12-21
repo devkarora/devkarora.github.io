@@ -74,7 +74,7 @@ experiences:
     title: Experiences
     info:
       - role: Software Engineer II
-        time: 2022 - Present
+        time: April 2022 - Present
         company: Dell Technologies, India
         details: |
             - Implemented and tested python/bash scripts from scratch and integrated them in GitLab CICD pipelines to carry out large-scale automation impacting 20,000+ repositories, thereby saving days of manual man-hours of work.
@@ -82,7 +82,7 @@ experiences:
             - Solved various tickets involving production issues involving excessive debugging and workflow tracing like pipeline unable to fetch artifacts from repository, unable to fetch details from vault etc.
             - Helped onboard a couple of software engineers to the team by giving them relevant knowledge transfers and assisting them to resolve technical issues.
       - role: Analyst, Cyber Security Engineering
-        time: 2020 - 2022
+        time: July 2020 - March 2022
         company: Dell Technologies, India
         details: |
 
@@ -90,73 +90,83 @@ experiences:
             - Contribute to the development and improvement of security monitoring and incident response processes and solutions supporting Dell security standards.
             - Implemented automation on data to create metrics and dashboards representing global team's work. Received recognition from Management for the same(python).
             - Participate in trainings, certifications and helped onboard few security engineers to the team by giving relevant knowledge transfers.
+      - role: Research Intern
+        time: Feb 2020 - July 2020
+        company: Indian Institute of Science, Bangalore
+        details: |
+
+            - Understood and debugged large codebase of a framework written in C programming language to solve real life water optimization problem.
+            - Investigated the impact of various parameters on the feasibility of the solutions and derived publishable results for research paper
+            
+      - role: Front End Web Developer
+        time: 2018
+        company: Stealth Startup
+        details: |
+
+            - Used Javscript and Bootstrap to create a website from scratch.
+            - The website was for the showcase of a newly launched product. Created Landing page, Gallery page etc.
+
+           
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+     
     assignments:
-      - title: Velocity
+      - title: Quiz Dashboard(php, mysql)
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: |
+                   -A responsive website template designed to help startups promote, market and sell their products. 
+                   -Implemented user-authentication (login, logout, registration) and CRUD operations from scratch. Used Javascript, Bootstrap, PHP, MySqL
 
-      - title: DevStudio
+      - title: Stocks prediction and analysis- Machine Learning(python)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: |
+                -Explored machine learning and its application on stock prices predictions, fetched data-sets from Yahoo Finance and analyzed stock prices for Amazon.com and 3M india Pvt. Ltd using various ML algorithms in Python.
+                -Predicted Next day opening prices using the trained model and visualized data using Matplotlib and other metrics
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: OSS Contributions
+    title: Achievements
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     contributions:
-      - title: Tempo
+      - title: - Dell Hackathon Winner - Team Rank 1 (out of 24 teams)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: |
+            - Used Decision Tree classifier for generating Bill Of Materials and used regression techniques for Cost Prediction. Finally made UI/UX using Vue.js and used flask for integration.
 
-      - title: Atom
+      - title: - GATE Qualified - Computer Science
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: 
 
-      - title: Delta
+      - title: - Received IOCL meritorious award for being among top of the class
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: 
+        
+      - title: - Earned Certified Ethical Hacker(CEH) 2022 certification
+        link: "#"
+        tagline: |
+                -EC Council (eccouncil.org)
 
 publications:
-    title: Publications
+    title: 
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
     papers:
-      - title: The Art of Computer Programming
+      - title: 
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: 
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: 
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: 
+        conference: 
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: 
+        link: 
+        authors: 
+        conference: 
 
 
 
