@@ -53,14 +53,14 @@ sidebar:
         - item: 
           link:
    
-  languages:
-      title: Programming Languages
-      info:
-        - idiom: Java | C | C++
-          level: 
+#  languages:
+#      title: Programming Languages
+#      info:
+#        - idiom: Java | C | C++
+#          level: 
 
-        - idiom: Python | SQL | R | JavaScript | XML | DAX
-          level: Elementary
+#        - idiom: Python | SQL | R | JavaScript | XML | DAX
+#          level: Elementary
 
 
 career-profile:
