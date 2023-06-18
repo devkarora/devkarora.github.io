@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Dev K Arora
     tagline: Software Engineer 
-    avatar: image2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: 
@@ -17,13 +17,13 @@ sidebar:
     timezone: 
     citizenship:
     website:  #do not add http://
-    linkedin: devkarora
+    linkedin: 
     xing: 
     github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@devkarora'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,14 +32,14 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
-          level: Native
+        - idiom: Java, Javascript, C++, Python, C
+          level: 
 
-        - idiom: Hindi
-          level: Native
+        #- idiom: Hindi
+          #level: 
 
-        - idiom: Punjabi
-          level: Elementary
+        #- idiom: Punjabi
+          #level: 
 
     interests:
       title: Interests
