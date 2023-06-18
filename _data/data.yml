@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Dev K Arora
     tagline: Software Engineer 
-    avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    #avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: 
@@ -33,13 +33,7 @@ sidebar:
       title: Languages
       info:
         - idiom: Java, Javascript, C++, Python, C
-          level: 
-
-        #- idiom: Hindi
-          #level: 
-
-        #- idiom: Punjabi
-          #level: 
+          level:
 
     interests:
       title: Interests
@@ -82,19 +76,21 @@ experiences:
         time: 2022 - Present
         company: Dell Technologies, India
         details: |
-            - Implemented and tested python/bash scripts from scratch and integrated them in GitLab CICD pipelines to carry out large-scale automation impacting 20,000+ repositories, thereby saving days of manual man-hours of work.
+            - Implemented and tested python/bash scripts from scratch and integrated them in GitLab CICD pipelines to carry out large-scale automation <b>impacting 20,000+ repositories,</b> thereby saving days of manual man-hours of work.
             - Designed and coded CICD template (compatible with existing infrastructure) to carry out all stages of the component's development lifecycles.
             - Solved various tickets involving production issues involving excessive debugging and workflow tracing like pipeline unable to fetch artifacts from repository, unable to fetch details from vault etc.
             - Helped onboard a couple of software engineers to the team by giving them relevant knowledge transfers and assisting them to resolve technical issues.
+            - Skills : <b>Python, Git, Gitlab, Java, Springboot, Scripting</b>
       - role: Analyst, Cyber Security Engineering
         time: 2020 - 2022
         company: Dell Technologies, India
         details: |
 
-            - Applied problem-solving skills in Investigating, analyzing and resolving different security cases that include possible malicious data and other potential threats. Utilized EDR and SIEM tools to identify, solve, and document different potential and non-potential security risks.
+            - Applied problem-solving skills in <b>Investigating, analyzing and resolving 100+ </b> different security cases that include possible malicious data and other potential threats. Utilized EDR and SIEM tools to identify, solve, and document different potential and non-potential security risks.
             - Contribute to the development and improvement of security monitoring and incident response processes and solutions supporting Dell security standards.
             - Implemented automation on data to create metrics and dashboards representing global team's work. Received recognition from Management for the same(python).
             - Participate in trainings, certifications and helped onboard few security engineers to the team by giving relevant knowledge transfers.
+            - Skills : <b> Python, Scripting, Security Investigations</b>
             
       - role: Research intern
         time: Feb 2020 - July 2020
@@ -102,7 +98,8 @@ experiences:
         details: |
 
             - Understood and debugged large codebase of a framework written in C programming language to solve real life water optimization problem.
-            - Investigated the impact of various parameters on the feasibility of the solutions and derived publishable results for research paper
+            - Investigated the impact of various parameters on the feasibility of the solutions and <b>derived publishable results for research paper</b>
+            - Skills : <b> C++, C, Impact analysis </b>
             
       - role: Software Developer
         time: 2018
@@ -111,7 +108,7 @@ experiences:
 
             - Used Javscript and Bootstrap to create a website from scratch.
             - The website was for the showcase of a newly launched product. Created Landing page, Gallery page etc.
-            
+            - Skills : <b> Javascript, Bootstrap, CSS, HTML </b>    
             
 projects:
     title: Projects
