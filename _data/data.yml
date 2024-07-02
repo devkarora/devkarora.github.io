@@ -76,39 +76,42 @@ experiences:
         time: 2022 - Present
         company: Dell Technologies, India
         details: |
-            - Implemented and tested python/bash scripts from scratch and integrated them in GitLab CICD pipelines to carry out large-scale automation <b>impacting 20,000+ repositories,</b> thereby saving days of manual man-hours of work.
-            - Designed and coded CICD template (compatible with existing infrastructure) to carry out all stages of the component's development lifecycles.
-            - Solved various tickets involving production issues involving excessive debugging and workflow tracing like pipeline unable to fetch artifacts from repository, unable to fetch details from vault etc.
-            - Helped onboard a couple of software engineers to the team by giving them relevant knowledge transfers and assisting them to resolve technical issues.
-            - Skills : <b>Python, Git, Gitlab, Java, Springboot, Scripting</b>
+            - Built the core email feature for product AIC Bulk Migrate used daily by 5 global orgs (150+ developers, 4000+ projects) for Prod & Non-Prod deployments.
+            - Integrated 2 new security tools, a unit testing tool and JWT auth method in the existing CI/CD infrastructure used by 5 global orgs in 4000+ projects thus significantly enhancing the efficiency and security posture of infrastructure. Also designed new infrastructure templates for AI/ML services
+            - To streamline repetitive development tasks to maintain 20000+ repositories, developed 6 internal utilities that performs automations at scale, significantly reducing developer effort in maintaining projects, thereby improving team productivity.
+            - Provided comprehensive support to engineers throughout the software development life-cycle, facilitating seamless feature integration and deployments. Solved various tickets involving production issues Received top 5% satisfaction rating.
+            - Created and maintained technical documentation used by 5 orgs for various org wide activities eg Efficient prod & Non-Prod deployments, Setting up new projects, service accounts reset activity, etc. Read by 20+ devs daily on avg.
+            - Contributed to 2 novel software patents to be published in United States Patent and Trademark Office (USPTO).
+            - Mentored 6 software engineers (3 full time, 2 contractual and 1 intern), assisted them in ramping up and resolving technical issues.
+#   - Skills : <b>Python, Git, Gitlab, Java, Springboot, Scripting</b>
       - role: Analyst, Cyber Security Engineering
         time: 2020 - 2022
         company: Dell Technologies, India
         details: |
 
-            - Applied problem-solving skills in <b>Investigating, analyzing and resolving 100+ </b> different security cases that include possible malicious data and other potential threats. Utilized EDR and SIEM tools to identify, solve, and document different potential and non-potential security risks.
-            - Contribute to the development and improvement of security monitoring and incident response processes and solutions supporting Dell security standards.
-            - Implemented automation on data to create metrics and dashboards representing global team's work. Received recognition from Management for the same(python).
-            - Participate in trainings, certifications and helped onboard few security engineers to the team by giving relevant knowledge transfers.
-            - Skills : <b> Python, Scripting, Security Investigations</b>
+            - Hands on experience in fast-paced Security Engineering team. Substantially improved security-alerting algorithms efficiency by addressing false positive incidents. This led to a reduction in the incident queue by 27% and a noteworthy increase in Global operational efficiency.
+            - Extensively analyzed firewall logs, network logs, events logs, access logs, Proxy logs, VPN logs etc other types of logs obtained from various SIEM tools like Splunk, Carbon Black, Cloud Azure, NetWitness etc., to trace the root cause of security incidents and recommended various solutions.
+            - Solved various high-priority security incidents and managed overall infrastructure security with a high accuracy and low risk. Solved 100+ high priority incidents. Received High satisfaction ratings.
+            -  Implemented new alerts, built automated-dashboards to extract insights from global incident data, increasing visibility by 70%. Earned recognition from the management(US, Malaysia, Mexico, India).
+#            - Skills : <b> Python, Scripting, Security Investigations</b>
             
       - role: Research intern
         time: Feb 2020 - July 2020
         company: Indian Institute of Science, Bengalore
         details: |
 
-            - Understood and debugged large codebase of a framework written in C programming language to solve real life water optimization problem.
-            - Investigated the impact of various parameters on the feasibility of the solutions and <b>derived publishable results for research paper</b>
-            - Skills : <b> C++, C, Impact analysis </b>
+            - Investigated the impact of various parameters on the feasibility of the solutions to a real-life water optimization problem, derived 8+ publishable results for research papers.
+#            - Investigated the impact of various parameters on the feasibility of the solutions and <b>derived publishable results for research paper</b>
+#            - Skills : <b> C++, C, Impact analysis </b>
             
       - role: Software Developer
         time: 2018
         company: Freelance
         details: |
 
-            - Used Javscript and Bootstrap to create a website from scratch.
-            - The website was for the showcase of a newly launched product. Created Landing page, Gallery page etc.
-            - Skills : <b> Javascript, Bootstrap, CSS, HTML </b>    
+            - Designed and developed a responsive website for the showcase of a newly launched product. Implemented Landing page, Gallery page etc.
+#            - The website was for the showcase of a newly launched product. Created Landing page, Gallery page etc.
+#            - Skills : <b> Javascript, Bootstrap, CSS, HTML </b>    
             
 projects:
     title: Projects
@@ -130,16 +133,7 @@ oss:
     intro: | 
 
     contributions:
-      - title: Dell Hackathon Winner - Team Rank 1 (out of 24 teams)
-        link: 
-        tagline: 
-      - title: GATE Qualified - Computer Science
-        link: 
-        tagline: 
-      - title: Received IOCL meritorious award for being among top of the class
-        link: 
-        tagline: 
-      - title: Got recognition from college for scoring multiple 9/10 GPA and a perfect 10/10 GPA
+      - title: Dell Hackathon Winner - Team rank 1 out of 24 teams. Teams consisting of top students from all majors from college(CS, IT, ECE, EEE, Civil etc).
         link: 
         tagline: 
 
@@ -149,7 +143,7 @@ publications:
     intro: |
       
     papers:
-      - title: Certified Ethical Hacker(CEH) 2022 | EC Council (eccouncil.org)
+      - title:  Certified Ethical Hacker - Invited for Hall of Fame | Received an exclusive nomination for the 2022 Certified Ethical Hacker (C|EH) Hall of Fame, received only to selected folks shortlisted by the council.
         link: 
         authors: 
         conference:
