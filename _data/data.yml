@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Dev K Arora
-    tagline: Software Engineer 
+    tagline: Software Development, Distributed Systems, Artificial Intelligence 
     #avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,8 +16,8 @@ sidebar:
     phone: 
     timezone: 
     citizenship:
-    website:  #do not add http://
-    linkedin: 
+    website:  devkarora.com
+    linkedin: https://www.linkedin.com/in/devkarora/
     xing: 
     github: 
     telegram: # add your nickname without '@' sign
@@ -41,7 +41,7 @@ sidebar:
         - item: Programming
           link:
 
-        - item: Sports - Badminton, Running
+        - item: Sports - Athletics
           link:
 
         - item: 
@@ -72,7 +72,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Software Engineer II
+      - role: Software Engineer II ( checkout linkedin for latest updates)
         time: 2022 - Present
         company: Dell Technologies, India
         details: |
