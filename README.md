@@ -1,3 +1,3 @@
-This repository for my resume website : devkumararora.github.io 
+This repository for my resume website : devkarora.github.io 
 
 
